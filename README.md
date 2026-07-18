@@ -1,4 +1,4 @@
-# Hi, I'm Elizabeth 👋
+# Hi, I'm Elizabeth
 
 Currently refreshing my web development skills one project at a time.
 
